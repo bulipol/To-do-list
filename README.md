@@ -1,5 +1,5 @@
 # To-do-list
-Demo available [here](https://bulipol.github.io/To-do-list/)
+Demo available [here](https://bulipol.github.io/To-do-list/index.html)
 
 Functionalities:
 -	User can add todo items
